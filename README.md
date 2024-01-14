@@ -17,7 +17,7 @@ Features:
 
 
 ## Text to Video Generator (Colab)
-'''https://colab.research.google.com/drive/1IcGCY_DqAYfYyhdqRzanQj5HmLwmRk0M?usp=sharing'''
+https://colab.research.google.com/drive/1IcGCY_DqAYfYyhdqRzanQj5HmLwmRk0M?usp=sharing
 
 
 ## Getting Started
