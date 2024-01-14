@@ -16,6 +16,10 @@ Features:
 - History Storage: The generated videos will be saved inside your respective Google Drive accounts.
 
 
+## For the complete resources of the project, help yourselves with the drive link provided
+https://drive.google.com/file/d/1dHhN2S6ziO612rrhHj42ITR7AAOxOIQN/view?usp=sharing
+
+
 ## Text to Video Generator (Colab)
 https://colab.research.google.com/drive/1IcGCY_DqAYfYyhdqRzanQj5HmLwmRk0M?usp=sharing
 
