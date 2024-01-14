@@ -19,19 +19,15 @@ Features:
 ## Getting Started
 
 #### Clone the Repository: 
-''' 
-git clone https://github.com/your-username/text-to-video-generation.git
-cd text-to-video-generation
-'''
+    git clone https://github.com/your-username/text-to-video-generation.git
+    cd text-to-video-generation
+
 
 #### Start the server:
-'''
-cd text-to-video-generation/src
-node index.js
-'''
+    cd text-to-video-generation/src
+    node index.js
 
 #### Run the Web Application:
-'''
-cd text-to-video-generation/Landing
-start index.html
-'''
+    cd text-to-video-generation/Landing
+    start index.html
+
